@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const connectionString = 'mongodb://localhost/test';
+const connectionString = 'mongodb://localhost/lehman-companies';
 //mongodb://localhost - this is where our mongodb server is running on our computer
 
 // /test - this is what we are calling our database
